@@ -1,0 +1,9 @@
+{
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "[typescriptreact]": {
+    "typescript.preferences.importModuleSpecifier": "non-relative"
+	},
+	"cSpell.words": [
+		"choosedColor"
+	]
+}
